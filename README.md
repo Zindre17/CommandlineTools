@@ -2,6 +2,7 @@
 How to use different commandline tools (cheetsheet)
 
 ## Tables of Content
+* [scp](https://github.com/Zindre17/CommandlineTools#scp-used-for-transfering-files-through-ssh)
 
 ## scp (used for transfering files through ssh)
 typical usage: `scp fileToTransfer.extension username@ip:targetdirectory`
